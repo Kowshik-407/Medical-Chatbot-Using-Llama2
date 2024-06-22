@@ -43,7 +43,7 @@ conda create -p mcq_env python=3.8 -y
 ```
 source activate ./mcq_env
 ```
-3. Create a .env file and add the below line:
+3. Create a .env file and add the below lines:
 ```
 PINECONE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 PINECONE_API_ENV = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
