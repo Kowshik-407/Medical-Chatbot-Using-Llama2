@@ -2,7 +2,13 @@
 An End to End Medical Chatbot Project Using Llama2, LangChain, Flask, Pinecone
 
 ## Pre-requisites
-Tech Stack used in this project:
+  - Install Anaconda and Python 3.8 in local system / Google Colab with Python to be installed
+  - VS Code
+  - If Anaconda is used the below are required:
+	  - Create a Virtual environment and activate it
+	  - Install all the packages in the Virutal Environment
+
+#### Tech Stack used in this project:
 1. Python (Programming Language)
 2. LangChain (Generative AI)
 3. Flask (Web App Implementation)
