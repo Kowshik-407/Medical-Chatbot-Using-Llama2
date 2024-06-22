@@ -82,5 +82,8 @@ python app.py
 #### Prompt the Questions
 ![image](https://github.com/Kowshik-407/Medical-Chatbot-Using-Llama2/assets/66817358/4aca8507-b547-4883-b767-17d6cee81ad1)
 ![image](https://github.com/Kowshik-407/Medical-Chatbot-Using-Llama2/assets/66817358/bda351c3-1896-4581-9b80-6e5a9f806a2c)
+
+#### Questions related to the document - Medical_book.pdf: RAG Implementation
+![image](https://github.com/Kowshik-407/Medical-Chatbot-Using-Llama2/assets/66817358/7d858d14-ce14-48bc-84de-7a464e14ff73)
 ![image](https://github.com/Kowshik-407/Medical-Chatbot-Using-Llama2/assets/66817358/a7680ac3-b569-45e9-8b15-a7d168007230)
 
