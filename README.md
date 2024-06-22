@@ -37,11 +37,11 @@ _**Front-end Architecture:**_
 2. Open Terminal in VSCode, then execute the below commands:
 - Creation of Virtual Environment
 ```
-conda create -p mcq_env python=3.8 -y
+conda create -n mchatbot python=3.8 -y
 ```
 - Activate the environment
 ```
-source activate ./mcq_env
+conda activate mchatbot
 ```
 3. Create a .env file and add the below lines:
 ```
