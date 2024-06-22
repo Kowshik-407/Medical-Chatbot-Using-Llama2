@@ -60,7 +60,11 @@ llama-2-7b-chat.ggmlv3.q4_0.bin
 ## From the following link:
 https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
 ```
-6. Execute the webapp in the terminal
+6. Store the embeddings in Pinecone. Run the below command in the terminal
+```
+python store_index.py
+```
+7. Execute the webapp in the terminal
 ```
 python app.py
 ```
